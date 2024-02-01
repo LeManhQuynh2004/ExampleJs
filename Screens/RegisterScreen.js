@@ -7,6 +7,7 @@ const RegisterScreen = () => {
       <Text>RegisterScreen</Text>
       <Text>Tôi thấy nó khá đầy đủ rồi</Text>
       <Text>Không ổn lắm đâu nha</Text>
+      <Text>Không ổn lắm đâu nha</Text>
     </View>
   )
 }
