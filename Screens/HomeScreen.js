@@ -4,7 +4,7 @@ import React from 'react'
 const HomeScreen = () => {
   return (
     <View>
-      <Text>HomeScreen dev</Text>
+      <Text>HomeScreen làm dev nghèo lắm</Text>
     </View>
   )
 }
