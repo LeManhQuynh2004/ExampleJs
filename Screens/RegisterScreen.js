@@ -5,6 +5,7 @@ const RegisterScreen = () => {
   return (
     <View>
       <Text>RegisterScreen</Text>
+      <Text>Tôi thấy nó khá đầy đủ rồi</Text>
     </View>
   )
 }
